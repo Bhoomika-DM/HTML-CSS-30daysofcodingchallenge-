@@ -1,5 +1,5 @@
-# HTML-CSS-30daysofcodingchallenge-
-Day 1: HTML Basics
+# HTML-CSS
+ HTML Basics
 
 ● Create a basic HTML page with a header, footer, and main content area.
 
